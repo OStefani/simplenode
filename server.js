@@ -6,5 +6,5 @@ res.writeHead(200, {'Content-Type': 'application/json'});
 res.end('Hello World');
 });
 
-server.listen(port, 'localhost', function() {
+server.listen(port, '188.226.185.203', function() {
 console.log(`Server started at ${port}`)});
