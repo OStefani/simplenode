@@ -4,7 +4,7 @@ res.writeHead(200, {'Content-Type': 'application/json'});
 res.end('Hello World');
 });
 
-server.listen(8080, '188.166.97.82', function() {
+server.listen(8080, '188.226.185.203', function() {
 console.log("Server started")});
 
 
